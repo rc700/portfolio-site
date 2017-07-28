@@ -925,3 +925,7 @@ textarea#message {
 	padding-right: 25px;
 	padding-left: 25px;
 }
+
+.thumbnail-pics {
+  background-color: pink;
+}
