@@ -720,30 +720,22 @@ button[disabled], html input[disabled] {
 .a a:hover .img-hover {
 	opacity: 0;
 }
-.a a .img-hover.glass {
-    background: #ea766a;
+.a a .img-hover.prussian-blue {
+    background: #1677AF;
 }
-.a a .img-hover.shoes-glass {
-    background: #a0c4a3;
+.a a .img-hover.pale-aqua {
+    background: #BFD7EA;
 }
-.a a .img-hover.hand-parts {
-    background: #da9dd9;
+.a a .img-hover.pastel-red {
+    background: #FF6663;
 }
-.a a .img-hover.table-with-phone {
-    background: #6da178;
+.a a .img-hover.june-bud {
+    background: #7C7287;
 }
-.a a .img-hover.orange-shoe {
-    background: #da9567;
+.a a .img-hover.moonstone-blue{
+    background: #5EB1BF;
 }
-.a a .img-hover.glass-shoes {
-    background: #5dc6aa;
-}
-.a a .img-hover.girls-tops {
-    background: #cab0a6;
-}
-.a a .img-hover.egg-arts {
-    background: #ddd173;
-}
+
 .a a .img-hover .c-table {
 	display: table;
 	width: 100%;
